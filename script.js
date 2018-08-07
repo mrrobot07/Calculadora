@@ -144,3 +144,11 @@ function Equal()
 }
 
 calcs[8].addEventListener("click",Equal);
+
+
+
+/**Funcion para la animación */
+function animationsOfButtons()
+{
+    /*Esta funcion se encargará de crear las animaciones para los botones*/
+}
